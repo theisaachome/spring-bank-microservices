@@ -16,7 +16,7 @@ spring:
         - StripPrefix=1
       ## FUND TRANSFER SERVICE
       - id: internet-banking-fund-transfer-service
-        uri:
+        uri: lb://internet-banking-fund-transfer-service
         predicates:
         - Path=/fund-transfer/**
         filters:
