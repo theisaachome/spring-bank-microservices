@@ -1,1 +1,0 @@
-# Registering Service Clients To Eureka Service Registry

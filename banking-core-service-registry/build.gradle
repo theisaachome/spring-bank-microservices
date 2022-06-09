@@ -4,7 +4,7 @@ plugins {
 	id 'java'
 }
 
-group = 'com.highway-finance'
+group = 'com.highway.finance'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '11'
 
